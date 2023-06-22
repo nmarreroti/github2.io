@@ -1,7 +1,7 @@
 {
   "name": "spacex-platzi",
   "version": "1.0.0",
-  "description": "A web application that shows info of SpaceX, using spaceX rest API",
+  "description": "A web application that shows info of SpaceX, using spaceX rest APIIIIIIIIIII",
   "main": "index.html",
   "scripts": {
     "lint": "eslint .",
